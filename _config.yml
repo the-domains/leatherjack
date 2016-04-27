@@ -1,7 +1,7 @@
 name: leatherjack
 favicon: null
-layout_spectrum: 0.5233713902998716
-typography_spectrum: 0.22005447279661894
+layout_spectrum: 1
+typography_spectrum: 0.05911
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.5913477945141494
+    - '#8e704e'
+    - '#735a3b'
+    - '#a07e58'
+    - '#5b472e'
+    - '#b58e63'
+  brandStrength: 0.5625
   lightness: 0.9047226379625499
-  saturation: 0.06347641232423484
-  rhythmicContrast: 0.4562173974700272
+  saturation: 0.0625
+  rhythmicContrast: 0.5
 purpose: []
