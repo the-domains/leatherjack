@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Less than 2% of leather products in the market are true full-grain, fully tanned, and fully durable. Various "tricks of the trade" are in full force, designed to fool you into parting with your hard earned cash in exchange for wretched "leather" goods. When you hear terms like top grain, genuine leather, and bonded leather, it all sounds attractive and the price tag usually follows suit, but caveat emptor (buyer beware), the only thing genuine about it is the scam.'
-datePublished: '2016-04-27T21:45:21.103Z'
-dateModified: '2016-04-27T21:43:59.089Z'
+datePublished: '2016-04-27T22:28:49.438Z'
+dateModified: '2016-04-27T22:28:24.972Z'
 title: ''
 author:
   - name: ''
