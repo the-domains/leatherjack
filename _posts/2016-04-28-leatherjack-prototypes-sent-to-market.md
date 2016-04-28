@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: "Be the first and buy some. We'll let you know when."
-datePublished: '2016-04-28T01:35:52.562Z'
-dateModified: '2016-04-28T01:35:20.332Z'
+datePublished: '2016-04-28T01:44:56.656Z'
+dateModified: '2016-04-28T01:43:41.135Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-28-leatherjack-prototypes-sent-to-market.md
